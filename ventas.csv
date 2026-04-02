@@ -1,0 +1,16 @@
+fecha,producto,categoria,precio,cantidad,pais
+2024-01-05,Laptop,Electronica,1200,2,Mexico
+2024-01-06,Mouse,Electronica,25,5,Mexico
+2024-01-10,Teclado,Electronica,45,3,Colombia
+2024-02-02,Monitor,Electronica,300,1,Mexico
+2024-02-10,Silla,Oficina,150,2,Chile
+2024-02-15,Escritorio,Oficina,400,1,Mexico
+2024-03-01,Laptop,Electronica,1200,1,Peru
+2024-03-05,Mouse,Electronica,25,10,Colombia
+2024-03-10,Silla,Oficina,150,1,Chile
+2024-03-20,Monitor,Electronica,300,2,Mexico
+2024-04-01,Teclado,Electronica,45,4,Peru
+2024-04-10,Escritorio,Oficina,400,1,Chile
+2024-04-15,Laptop,Electronica,1200,3,Mexico
+2024-05-01,Mouse,Electronica,25,8,Peru
+2024-05-10,Silla,Oficina,150,2,Colombia
